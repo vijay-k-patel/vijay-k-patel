@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=vijay-k-patel&theme=algolia&show_icons=true)](https://github.com/vijay-k-patel)
+
+[![Vijaykumar Patel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=vijay-k-patel&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/vijay-k-patel)
